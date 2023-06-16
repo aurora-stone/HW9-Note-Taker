@@ -30,5 +30,5 @@ MIT
 www.github.com/aurora-stone
 
 ## Screenshot
-![Image](./screenshot.png)
+![Image](./develop/screenshot.png)
   
