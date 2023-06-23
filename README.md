@@ -22,6 +22,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 - [License](#license)
 - [Questions](#questions)
 - [Screenshot](#screenshot)
+- [Link](#link)
 
 ## License
 MIT
@@ -31,4 +32,6 @@ www.github.com/aurora-stone
 
 ## Screenshot
 ![Image](./screenshot.png)
-  
+
+## Link
+[Link to App](https://notetaker20202-f2662815a5df.herokuapp.com/)
